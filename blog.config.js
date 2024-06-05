@@ -17,7 +17,7 @@ const BLOG = {
   showAbout: true,
   showArchive: true,
   autoCollapsedNavBar: false, // The automatically collapsed navigation bar
-  ogImageGenerateURL: 'https://og-image-craigary.vercel.app', // The link to generate OG image, don't end with a slash
+  ogImageGenerateURL: 'https://og.liamm.top', // The link to generate OG image, don't end with a slash
   socialLink: 'https://x.com/Liamm_top',
   seo: {
     keywords: ['Blog', 'Website', 'Notion'],
