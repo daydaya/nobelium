@@ -122,6 +122,7 @@ export default function Header ({ navBarTitle, fullWidth }) {
         </div>
         <NavBar />
       </div>
+      <script defer src="https://cloud.umami.is/script.js" data-website-id="c7df50b6-f238-4502-a759-ce3c87235fd7"></script>
     </>
   )
 }
